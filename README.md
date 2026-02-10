@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/eman-gameel-3a575b232">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:emanelsayed0297@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#eb8e868a858e87988a928e8fdbd9d2dcab8c868a8287c5888486">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Emangameel">
@@ -41,7 +41,11 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 **Database & Tools:**
 
@@ -72,5 +76,4 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Emangameel&color=blueviolet&style=for-the-badge" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=Emangamee
