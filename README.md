@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Eman El Sayed 👋</h1>
+<h1 align="center">Hi, I'm Eman El Sayed </h1>
 <h3 align="center">Software Engineer & .NET Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/eman-gameel-3a575b232">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="/cdn-cgi/l/email-protection#eb8e868a858e87988a928e8fdbd9d2dcab8c868a8287c5888486">
+  <a href="emanelsayed0297@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Emangameel">
